@@ -1,3 +1,15 @@
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="100" />
+</p>
+
+# Hi, I'm Sara Hammouda! 👋
+
+**I’m a Data Science student passionate about Python, SQL, and Artificial Intelligence.**  
+I focus on transforming raw data into smart, actionable insights that drive innovation.
+
+...
+
+
 ## Hi there, I'm Sara Hammouda!👋
 
 👩‍🎓 I am a Data Science student passionate about Python, SQL, and AI     
