@@ -1,6 +1,7 @@
 ## Hi there, I'm Sara Hammouda!👋
 
 👩‍🎓 I am a Data Science student passionate about Python, SQL, and AI 
+
 📊 Diving headfirst into data science and AI to turn raw data into powerful solutions  
 🚀 Actively seeking data science & AI internship opportunities to grow fast and contribute meaningfully  
 🎨 I enjoy exploring new tools, and continuous learning  
