@@ -3,7 +3,7 @@
 👩‍🎓 I am a Data Science student passionate about Python, SQL, and AI 
 📊 Diving headfirst into data science and AI to turn raw data into powerful solutions  
 🚀 Actively seeking data science & AI internship opportunities to grow fast and contribute meaningfully  
-🎨 I enjoy coding, exploring new tools, and continuous learning  
+🎨 I enjoy exploring new tools, and continuous learning  
 
 
 ---
@@ -37,9 +37,6 @@
 **Notebooks & Environments:**  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 
-**Version Control:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 
 ### 📈 GitHub Stats  
