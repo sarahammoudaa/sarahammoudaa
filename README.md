@@ -19,8 +19,8 @@ Python | SQL | Pandas | NumPy | Scikit-Learn | Jupyter | Power BI | Tableau | Ma
 ---
 
 ### 📈 GitHub Stats  
-![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sara-hammouda&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sara-hammouda&theme=radical)  
+![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahammoudaa&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarahammoudaa&theme=radical)  
 
 ---
 
