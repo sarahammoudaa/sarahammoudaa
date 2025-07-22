@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there, I'm Sara Hammouda!👋
 
-<!--
-**sarahammoudaa/sarahammoudaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍🎓 I am a Data Science student passionate about Python, SQL, and AI — building web and mobile apps that deliver real, user-friendly value  
+📊 Diving headfirst into data science and AI to turn raw data into powerful solutions  
+🚀 Actively seeking data science & AI internship opportunities to grow fast and contribute meaningfully  
+🎨 I enjoy coding, exploring new tools, and continuous learning  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/sara-hammouda-671a7b239/)  
+
+---
+
+### 🛠 Languages and Tools  
+Python | SQL | Pandas | NumPy | Scikit-Learn | Jupyter | Power BI | Tableau | Matplotlib | Seaborn | R | Excel | Git | GitHub
+
+---
+
+### 📈 GitHub Stats  
+![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sara-hammouda&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sara-hammouda&theme=radical)  
+
+---
+
+Thanks for stopping by my profile! Let’s connect and build amazing things with data.
