@@ -1,15 +1,5 @@
-
-
-# Hi, I'm Sara Hammouda! 👋
-
-**I’m a Data Science student passionate about Python, SQL, and Artificial Intelligence.**  
-I focus on transforming raw data into smart, actionable insights that drive innovation.
-
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="100" />
-</p>
-
 ## Hi there, I'm Sara Hammouda!👋
+
 
 👩‍🎓 I am a Data Science student passionate about Python, SQL, and AI     
 📊 Diving headfirst into data science and AI to turn raw data into powerful solutions  
@@ -17,7 +7,6 @@ I focus on transforming raw data into smart, actionable insights that drive inno
 🎨 I enjoy exploring new tools, and continuous learning  
 
 
----
 
 ### 📫 Connect with me:  
 
@@ -40,4 +29,11 @@ I focus on transforming raw data into smart, actionable insights that drive inno
 
 ---
 
-Thanks for stopping by my profile! Let’s connect and build amazing things with data.
+---
+
+Thank you for visiting my profile!  
+I’m excited to connect and collaborate on innovative projects in data science and AI.
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHQ2NzU4d2wzajA3dzI4YnI1azRkNTllNXc3YmdibTlxZjlvM3Z5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VePtB3roynxfLYicuV/giphy.gif" alt="Thank you GIF" width="300" />
+</p>
