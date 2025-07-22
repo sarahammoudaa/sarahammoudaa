@@ -29,8 +29,6 @@
 
 ---
 
----
-
 Thank you for visiting my profile!  
 I’m excited to connect and collaborate on innovative projects in data science and AI.
 
